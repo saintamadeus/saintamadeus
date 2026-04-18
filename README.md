@@ -1,6 +1,6 @@
 # Hi, I'm Titus 👋
 
-Backend developer based in Lagos, Nigeria. I build APIs and backend systems with Node.js, Express, and PostgreSQL.
+Backend developer based in Abuja, Nigeria. I build APIs and backend systems with Node.js, Express, and PostgreSQL.
 
 ## What I Build
 
